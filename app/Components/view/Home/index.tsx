@@ -9,7 +9,7 @@ const HomePage = () => {
             <h1 className='md:text-6xl text-4xl font-serif'>Travel to your destination</h1>
             <div className='p-4'>
             <p className='text-left md:text-md text-sm '>
-            The Foundation of our company was built upon live events and staging services.fantazaia's team of audio,visual professionals has decades of creativity and experience to provide you with the very...
+            The Foundation of our company was built upon live events and staging services fantazaias team of audio,visual professionals has decades of creativity and experience to provide you with the very
             </p>
             </div>
             
