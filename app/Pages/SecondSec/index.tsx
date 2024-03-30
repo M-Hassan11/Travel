@@ -11,7 +11,7 @@ const SecondSec = () => {
           <Image src={SecondSecPht} alt='/' className=' h-72 rounded-md ' />
         </div>
         <div className='absolute inset-0 flex flex-col items-center justify-center'>
-          <div className="absolute inset-0 bg-black opacity-60 blur-lg"></div>
+          <div className="absolute inset-0 bg-black opacity-60 "></div>
           <div className="z-10 max-w-md text-white">
           <h1 className="md:text-4xl font-bold mb-2">Create a memory to remember</h1>
           <p className='p-2'>
