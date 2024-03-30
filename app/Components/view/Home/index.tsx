@@ -4,7 +4,7 @@ import HomePageImgs from "@/app/Components/assets/Images/HomePagePic.jpg";
 
 const HomePage = () => {
   return (
-    <div className='pt-28 flex flex-col md:flex-row p-4 '>
+    <div className='md:pt-28 pt-20 flex flex-col md:flex-row p-4 '>
         <div className='md:w-1/2 text-center justify-center'>
             <h1 className='md:text-6xl text-4xl font-serif'>Travel to your destination</h1>
             <div className='p-4'>
