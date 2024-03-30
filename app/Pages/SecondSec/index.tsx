@@ -8,7 +8,7 @@ const SecondSec = () => {
     <div className='pt-32'>
       <div className='relative flex items-center justify-center text-center'>
         <div className=''>
-          <Image src={SecondSecPht} alt='/' className=' h-72 rounded-md ' />
+          <Image src={SecondSecPht} alt='/' className=' h-72 rounded-t-sm' />
         </div>
         <div className='absolute inset-0 flex flex-col items-center justify-center'>
           <div className="absolute inset-0 bg-black opacity-60 "></div>
