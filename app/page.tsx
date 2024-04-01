@@ -1,4 +1,5 @@
 import HomePage from "./Components/view/Home";
+import CardsSec from "./Pages/Cards";
 import SecondSec from "./Pages/SecondSec";
 
 
@@ -7,6 +8,7 @@ export default function Home() {
     <main>
       <HomePage />
       <SecondSec />
+      <CardsSec />
     </main>
   );
 }
